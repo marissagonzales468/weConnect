@@ -1,2 +1,3 @@
 # weConnect
 Homeless interactive tracker for Stockton, CA. This app is to help those who individuals are in need.
+Get services such mental health, food, pet, medical, temporary housing, mental health and immigration services. This also is an interactive graph that shows the total number of homelessness and how many people are sheltered versus non-sheltered. As well as an interactive tracker in real time to call for beds that are available with the number at head. The app also offers case management. If you choose to volunteer to visit someone in need or want to volunteer at one of the services please call with the number provided.
